@@ -34,6 +34,7 @@ I build and ship **AI-powered mobile apps for iOS &amp; Android**: 3+ years, **8
 
 | Project | What it shows |
 |---|---|
+| [**all-in-one**](https://github.com/AnubhavReact/all-in-one) | Next.js + Expo monorepo: in-browser PDF tools (files never uploaded), ⌘K palette &amp; AI assistant, shared TypeScript core for web &amp; mobile, Puppeteer visual QA |
 | [**cars24-sdui**](https://github.com/AnubhavReact/cars24-sdui) | Server-Driven UI in React Native: a full home page rendered from JSON via 13 generic primitives, an action system, safe versioning and a measured perf benchmark |
 
 ---
