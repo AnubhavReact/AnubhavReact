@@ -7,7 +7,7 @@
   <a href="mailto:shuklaanubhav0512@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-I build and ship **AI-powered mobile apps for iOS &amp; Android**: 3+ years, **8+ apps built, 6+ live** on the App Store &amp; Play Store, one serving **100K+ active users**.
+I build and ship **AI-powered mobile apps for iOS &amp; Android**: 3.5+ years, **8+ apps built, 6+ live** on the App Store &amp; Play Store, one serving **100K+ active users**.
 
 - 📱 **React Native + native iOS.** Swift / SwiftUI / Objective-C native modules and MVVM screens where JS isn't enough
 - 🤖 **AI in the product.** LLM assistants on AWS Bedrock &amp; Gemini, AI recommendations, AI budget planning
