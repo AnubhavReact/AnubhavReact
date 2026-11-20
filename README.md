@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anubhav Shukla 👋</h1>
-<h3 align="center">AI-Native Mobile Engineer · React Native &amp; iOS (Swift / SwiftUI)</h3>
+<h3 align="center">Full-Stack Mobile Engineer · React Native &amp; iOS · Node.js &amp; Next.js</h3>
 
 <p align="center">
   <a href="https://anubhav-shukla.netlify.app"><img src="https://img.shields.io/badge/Portfolio-anubhav--shukla.netlify.app-7c5cff?style=for-the-badge&logo=netlify&logoColor=white"></a>
@@ -7,9 +7,11 @@
   <a href="mailto:shuklaanubhav0512@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-I build and ship **AI-powered mobile apps for iOS &amp; Android**: 3.5+ years, **8+ apps built, 6+ live** on the App Store &amp; Play Store, one serving **100K+ active users**.
+I build and ship **AI-powered products end to end**: the iOS &amp; Android app, the web admin panel and the **Node.js backend** behind them. 3.5+ years, **7+ production apps**, 6+ live on the App Store &amp; Play Store, one serving **100K+ active users**.
 
 - 📱 **React Native + native iOS.** Swift / SwiftUI / Objective-C native modules and MVVM screens where JS isn't enough
+- 🧩 **Both sides of the API.** Node.js / Express REST APIs, server-side push with Firebase Admin SDK, OAuth 2.0 / JWT auth, super-admin dashboard APIs, Redis caching, MySQL / MongoDB / PostgreSQL
+- 🌐 **Web too.** React.js &amp; Next.js admin panels and websites
 - 🤖 **AI in the product.** LLM assistants on AWS Bedrock &amp; Gemini, AI recommendations, AI budget planning
 - 📡 **Device-level work.** Bluetooth (BLE) hardware, geofencing &amp; live location, offline-first SQLite sync
 - 🔒 **Production-grade.** SSL pinning, Keychain/Keystore, VAPT-hardened builds, CI/CD with EAS, Fastlane &amp; GitHub Actions
@@ -23,11 +25,11 @@ I build and ship **AI-powered mobile apps for iOS &amp; Android**: 3.5+ years, *
 
 | | App | What I did | Links |
 |:-:|---|---|---|
-| <img src="assets/tripare.png" width="44"> | **Tripare.Ai**<br><sub>AI corporate travel &amp; expense</sub> | AI travel assistant &amp; budget engine, Expo architecture, CI/CD, OTA, BoxPay | [Play](https://play.google.com/store/apps/details?id=ai.tripare.tpnative) · [App Store](https://apps.apple.com/us/app/tripare-ai-corporate-travel/id6759548390) |
-| <img src="assets/toneop.png" width="44"> | **ToneOp**<br><sub>Wellness · 100K+ users · 4.5★</sub> | AWS Bedrock health assistant, FlashList perf fixes, Razorpay, New Relic | [Play](https://play.google.com/store/apps/details?id=com.toneop.mobile) · [App Store](https://apps.apple.com/in/app/toneop-health-and-fitness-app/id1586794292) |
-| <img src="assets/olive.png" width="44"> | **Olive**<br><sub>Dating, friends &amp; events</sub> | Encrypted PubNub chat, reels feed; crash fixes took rating **1★ → 4★+** | [Play](https://play.google.com/store/apps/details?id=olive.dating) · [App Store](https://apps.apple.com/us/app/olive-dating-friends-events/id6736632251) |
+| <img src="assets/tripare.png" width="44"> | **Tripare.Ai**<br><sub>AI corporate travel &amp; expense</sub> | **Full stack.** App: AI travel assistant, budget engine, CI/CD, OTA, BoxPay. Backend: Node.js/Express APIs, Firebase Admin push, OAuth 2.0 / JWT, super-admin APIs | [Play](https://play.google.com/store/apps/details?id=ai.tripare.tpnative) · [App Store](https://apps.apple.com/us/app/tripare-ai-corporate-travel/id6759548390) |
+| <img src="assets/toneop.png" width="44"> | **ToneOp**<br><sub>Wellness · 100K+ users · 4.5★</sub> | AWS Bedrock health assistant, FlashList perf fixes, Razorpay, New Relic; Node.js / Express / MySQL API endpoints | [Play](https://play.google.com/store/apps/details?id=com.toneop.mobile) · [App Store](https://apps.apple.com/in/app/toneop-health-and-fitness-app/id1586794292) |
+| <img src="assets/olive.png" width="44"> | **Olive**<br><sub>Dating, friends &amp; events</sub> | Encrypted PubNub chat, reels feed; crash fixes took rating **1★ → 4★+**; Node.js backend for push &amp; APIs | [Play](https://play.google.com/store/apps/details?id=olive.dating) · [App Store](https://apps.apple.com/us/app/olive-dating-friends-events/id6736632251) |
 | <img src="assets/fairpair.png" width="44"> | **FairPair**<br><sub>AI job marketplace</sub> | AI job matching, Swift native modules for Twilio VoIP, **20% faster** load | [Play](https://play.google.com/store/apps/details?id=com.fairpair) |
-| <img src="assets/appofit.png" width="44"> | **Appofit**<br><sub>Fitness for trainers &amp; gyms</sub> | Architected from scratch; HealthKit &amp; Google Fit sync, Twilio chat | [Play](https://play.google.com/store/apps/details?id=com.bit.appofit) |
+| <img src="assets/appofit.png" width="44"> | **Appofit**<br><sub>Fitness for trainers &amp; gyms</sub> | Architected from scratch; HealthKit &amp; Google Fit sync, Twilio chat; built the website in React.js | [Play](https://play.google.com/store/apps/details?id=com.bit.appofit) |
 | <img src="assets/r1.png" width="44"> | **R1 Loss Control**<br><sub>Insurance field inspection</sub> | Offline-first SQLite sync, geofencing, SSL pinning | [Play](https://play.google.com/store/apps/dev?id=5009562818756666886) |
 
 ### 📌 Featured open-source
@@ -36,7 +38,7 @@ I build and ship **AI-powered mobile apps for iOS &amp; Android**: 3.5+ years, *
 |---|---|
 | [**all-in-one**](https://github.com/AnubhavReact/all-in-one) | Next.js + Expo monorepo: in-browser PDF tools (files never uploaded), ⌘K palette &amp; AI assistant, shared TypeScript core for web &amp; mobile, Puppeteer visual QA |
 | [**cars24-sdui**](https://github.com/AnubhavReact/cars24-sdui) | Server-Driven UI in React Native: a full home page rendered from JSON via 13 generic primitives, an action system, safe versioning and a measured perf benchmark |
-| [**anubhav-portfolio**](https://github.com/AnubhavReact/anubhav-portfolio) | This portfolio: hand-built single-file HTML/CSS/JS, zero dependencies, live GitHub feed, scrollspy &amp; reveal animations |
+| [**anubhav-portfolio**](https://github.com/AnubhavReact/anubhav-portfolio) | This portfolio: plain HTML/CSS/JS rendered from one data file, zero dependencies, project filters, scrollspy &amp; reveal animations |
 
 ---
 
@@ -63,11 +65,23 @@ I build and ship **AI-powered mobile apps for iOS &amp; Android**: 3.5+ years, *
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
-**Data, backend &amp; realtime**<br>
-![SQLite](https://img.shields.io/badge/SQLite_(offline--first)-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+**Web &amp; backend**<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS (Lambda · S3 · EC2)](https://img.shields.io/badge/AWS_(Lambda_·_S3_·_EC2)-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OAuth 2.0 · JWT](https://img.shields.io/badge/OAuth_2.0_·_JWT-EB5424?style=flat-square&logo=auth0&logoColor=white)
+
+**Data &amp; realtime**<br>
+![SQLite](https://img.shields.io/badge/SQLite_(offline--first)-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_·_Admin_SDK-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio_Voice-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![PubNub](https://img.shields.io/badge/PubNub-CA2128?style=flat-square)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
@@ -88,4 +102,4 @@ I build and ship **AI-powered mobile apps for iOS &amp; Android**: 3.5+ years, *
 
 ---
 
-<p align="center"><sub>📍 Gurugram, India · Open to React Native &amp; iOS roles</sub></p>
+<p align="center"><sub>📍 Gurugram, India · Open to Full-Stack, React Native &amp; iOS roles</sub></p>
